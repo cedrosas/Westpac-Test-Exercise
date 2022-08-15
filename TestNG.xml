@@ -1,0 +1,8 @@
+<suite name = "Test exam" Verbose = "1">
+    <test name = "WestpacTest">
+        <classes>
+            <class name = "Test.TestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
